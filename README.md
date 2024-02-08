@@ -9,7 +9,7 @@
 <p>The goal is to show the power of Django and key information that are contained in the open weather api.</p>
 <p>This project could be the backbone to your own django app for weather forecast.</p>
 
-<p>If you want to see more details, go to the dedicated Notion page I created for this project: </p>
+<p>If you want to see more details, go to the dedicated Notion page I created for this project: https://boulder-roast-f20.notion.site/Openweather-API-Django-Application-af071a119490443ab16ec871c6636707?pvs=4</p>
 
 
 <h2>How to get started?</h2>
